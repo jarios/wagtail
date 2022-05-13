@@ -15,7 +15,7 @@
   "devDependencies": {},
   "dependencies": {
     "mustache": "^2.2.1",
-    "yargs": "^4.2.0"
+    "yargs": "^13.2.4"
   },
   "scripts": {}
 }
